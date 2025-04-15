@@ -29,7 +29,3 @@ This project leverages **Ollama OCR** to extract structured data from input docu
 4. View the extracted details in the console or output file
 
 ---
-
-### Output
-
-![image](https://github.com/user-attachments/assets/e6d94f27-08d6-417f-852a-c36f187439b9)
